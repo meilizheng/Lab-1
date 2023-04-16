@@ -1,0 +1,28 @@
+<!DOCTYPE html> <!-- This is the DOCTTYPE Declaration and it is required to be the top of the page-->
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Lab 1</title>
+  </head>
+  <body>
+      <!--Continue Section B here inside of the body tags-->
+      <!--Created a head use the head tag-->
+      <h1>CSI140_LAB_1-Meili Zheng</h1>
+      <!--use hr tag insert a horizontal rule-->
+      <hr>
+      <!--use p tag to created a new paragrph.-->
+      <!--use b tag to bold the text-->
+      <p>Greetings everyone, my name is Meili Zheng and I am currently pursuing a part-time degree in Computer Science at RTC. 
+        My goal is to earn an AAS degree and secure a position in the computer software industry. I enjoy spending my free time 
+        outdoors with my family, particularly going on walks and engaging in various outdoor activities. <b>Upon graduating, my 
+        goal is to secure a position as a Testing Engineer in a dynamic and innovative company that values quality software development.</b> Thank you for taking the time to get to know me a little better.<br>
+        </p>  
+        <!--use img tag insert a image--> 
+      <img src ="images/rtcLogo.jpg" alt="RTC Logo">
+      <p>Below is the job link that I am interested during or after I am graduat.</p>
+      <!--use a tag insert a web link-->
+      <a href = "https://www.linkedin.com/jobs/search/?currentJobId=3514661431&geoId=103644278&keywords=entry%20level%20software%20tester&location=United%20States&refresh=true">Software tester job link</a>     
+  </body>
+</html>
